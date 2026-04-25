@@ -1,0 +1,6 @@
+{
+  "name": "Modern Task List (Kotlin)",
+  "description": "A minimalist Kotlin Android app with Jetpack Compose and Room Database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
